@@ -72,6 +72,12 @@
       "icon": "bx bxl-linkedin"
     },
     {
+      "type": "website",
+      "href": "https://moinul909.github.io/",
+      "title": "Personal Website",
+      "icon": "fas fa-globe"
+    },
+    {
       "type": "cv",
       "href": "./Curriculum_Vitae.pdf",
       "title": "Download CV",
