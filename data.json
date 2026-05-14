@@ -72,12 +72,6 @@
       "icon": "bx bxl-linkedin"
     },
     {
-      "type": "website",
-      "href": "https://sites.google.com/view/md-moinul-islam/home",
-      "title": "Personal Website",
-      "icon": "fas fa-globe"
-    },
-    {
       "type": "cv",
       "href": "./Curriculum_Vitae.pdf",
       "title": "Download CV",
