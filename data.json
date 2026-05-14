@@ -1,0 +1,526 @@
+{
+  "meta": {
+    "siteTitle": "Md. Moinul Islam | AI Researcher & Developer",
+    "copyrightYear": 2026,
+    "description": "Computer Science undergraduate at Daffodil International University, specializing in AI for healthcare, medical image analysis, federated learning, and explainable AI.",
+    "keywords": "Md. Moinul Islam, Medical AI, Computer Vision, Federated Learning, Explainable AI, Health Informatics, Machine Learning, Deep Learning"
+  },
+  "profile": {
+    "displayName": "Md. Moinul Islam",
+    "title": "AI Researcher & Developer",
+    "location": "Dhaka, Bangladesh",
+    "address": "Block E, Road: 9, Section: 1, Mirpur, Dhaka-1216",
+    "phone": "+8801812089547",
+    "photo": {
+      "src": "./images/profile/moinul.jpg",
+      "alt": "Md. Moinul Islam - AI Researcher"
+    },
+    "bioParagraphs": [
+      "I am a Computer Science and Engineering undergraduate at <a href=\"https://daffodilvarsity.edu.bd/\" target=\"_blank\">Daffodil International University</a> with a strong interest in <strong>Artificial Intelligence</strong> and <strong>healthcare research</strong>, focusing on medical image analysis, federated learning, and explainable AI.",
+      "As a <strong>Research Associate & Coordinator</strong> at the <strong>Health Informatics Research Lab (HIRL)</strong>, I lead and contribute to AI-driven healthcare projects while mentoring junior researchers. I also gained industry experience as a <strong>Generative AI Intern</strong> at Metademy LLC, USA, working with large language models and AI agents.",
+      "I am passionate about developing <strong>intelligent, privacy-preserving, and clinically interpretable AI systems</strong> for real-world impact. I strongly believe in the importance of outreach in academia and actively mentor junior researchers, organize research workshops, and lead collaborative research programs."
+    ],
+    "highlights": [
+      {
+        "icon": "fas fa-flask",
+        "number": "4",
+        "label": "Research Projects",
+        "suffix": "+"
+      },
+      {
+        "icon": "fas fa-award",
+        "number": "8",
+        "label": "Awards & Honors",
+        "suffix": "+"
+      },
+      {
+        "icon": "fas fa-certificate",
+        "number": "12",
+        "label": "Certifications",
+        "suffix": "+"
+      },
+      {
+        "icon": "fas fa-users",
+        "number": "3",
+        "label": "Leadership Roles",
+        "suffix": ""
+      }
+    ]
+  },
+  "contact": {
+    "email": "islam2205101592@diu.edu.bd",
+    "personalEmail": "moinulislam.909.mi@gmail.com",
+    "phone": "+8801812089547"
+  },
+  "social": [
+    {
+      "type": "github",
+      "href": "https://github.com/MOINUL909",
+      "title": "GitHub Profile",
+      "icon": "bx bxl-github"
+    },
+    {
+      "type": "scholar",
+      "href": "https://scholar.google.com/citations?user=YOURTOKEN",
+      "title": "Google Scholar",
+      "icon": "bx bxl-google"
+    },
+    {
+      "type": "linkedin",
+      "href": "https://www.linkedin.com/in/mr-moinul-islam-a420401b3",
+      "title": "LinkedIn Profile",
+      "icon": "bx bxl-linkedin"
+    },
+    {
+      "type": "website",
+      "href": "https://sites.google.com/view/md-moinul-islam/home",
+      "title": "Personal Website",
+      "icon": "fas fa-globe"
+    },
+    {
+      "type": "cv",
+      "href": "./Curriculum_Vitae.pdf",
+      "title": "Download CV",
+      "icon": "fas fa-file-pdf"
+    }
+  ],
+  "nav": [
+    { "id": "about", "label": "About", "icon": "fas fa-user" },
+    { "id": "experience", "label": "Experience", "icon": "fas fa-briefcase" },
+    { "id": "education", "label": "Education", "icon": "fas fa-graduation-cap" },
+    { "id": "skills", "label": "Skills", "icon": "fas fa-code" },
+    { "id": "publications", "label": "Publications", "icon": "fas fa-book" },
+    { "id": "leadership", "label": "Leadership", "icon": "fas fa-trophy" },
+    { "id": "awards", "label": "Awards", "icon": "fas fa-award" },
+    { "id": "certificates", "label": "Certificates", "icon": "fas fa-certificate" }
+  ],
+  "experience": [
+    {
+      "id": "exp1",
+      "title": "Research Associate & Coordinator",
+      "organization": "Health Informatics Research Lab (HIRL)",
+      "location": "Daffodil International University, Dhaka",
+      "startDate": "February 2026",
+      "endDate": "Present",
+      "current": true,
+      "description": "Coordinating research projects, managing research teams, mentoring students, and supporting academic collaborations and research programs.",
+      "achievements": [
+        "Leading AI-driven healthcare research projects",
+        "Mentoring 10+ junior researchers",
+        "Coordinating collaborative research programs"
+      ],
+      "icon": "fas fa-flask",
+      "type": "research"
+    },
+    {
+      "id": "exp2",
+      "title": "Teaching Assistant",
+      "organization": "Department of CSE, Daffodil International University",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "February 2026",
+      "endDate": "Present",
+      "current": true,
+      "description": "Working under the supervision of Dr. S. M. Aminul Haque, assisting in academic activities.",
+      "achievements": [
+        "Supporting course instruction and student mentorship",
+        "Assisting in curriculum development"
+      ],
+      "icon": "fas fa-chalkboard-teacher",
+      "type": "teaching"
+    },
+    {
+      "id": "exp3",
+      "title": "Instructor",
+      "organization": "PythonX: Python Foundations for Data Science Boot Camp",
+      "location": "Health Informatics Research Lab (HIRL)",
+      "startDate": "Spring 2026",
+      "endDate": "Spring 2026",
+      "current": false,
+      "description": "Instructed participants in Python programming and foundational Data Science concepts through practical sessions and guided exercises.",
+      "achievements": [
+        "Taught 50+ students Python and Data Science fundamentals",
+        "Developed course modules and practical exercises"
+      ],
+      "icon": "fab fa-python",
+      "type": "teaching"
+    },
+    {
+      "id": "exp4",
+      "title": "Generative AI Intern",
+      "organization": "Metademy LLC",
+      "location": "Utah, United States (Remote)",
+      "startDate": "April 2025",
+      "endDate": "July 2025",
+      "current": false,
+      "description": "Worked with Large Language Models (LLMs), Whisper API, and AI agents while contributing to AI research, development, and product innovation.",
+      "achievements": [
+        "Developed LLM-powered applications",
+        "Integrated Whisper API for speech recognition",
+        "Contributed to AI product innovation"
+      ],
+      "icon": "fas fa-robot",
+      "type": "industry"
+    },
+    {
+      "id": "exp5",
+      "title": "Data Analytics Intern",
+      "organization": "Oasis Infobyte",
+      "location": "New Delhi, India (Remote)",
+      "startDate": "January 2025",
+      "endDate": "February 2025",
+      "current": false,
+      "description": "Worked on data analysis, visualization, and reporting using Python and analytical tools.",
+      "achievements": [
+        "Performed data analysis on multiple datasets",
+        "Created interactive visualizations",
+        "Generated comprehensive analytical reports"
+      ],
+      "icon": "fas fa-chart-line",
+      "type": "industry"
+    },
+    {
+      "id": "exp6",
+      "title": "Research Assistant (RA)",
+      "organization": "Health Informatics Research Lab (HIRL)",
+      "location": "Daffodil International University",
+      "startDate": "January 2025",
+      "endDate": "February 2026",
+      "current": false,
+      "description": "Assisted in AI and health informatics research projects, including data analysis, experimentation, and model development.",
+      "achievements": [
+        "Conducted experiments on medical imaging datasets",
+        "Developed deep learning models for disease classification",
+        "Contributed to 4+ research papers"
+      ],
+      "icon": "fas fa-microscope",
+      "type": "research"
+    },
+    {
+      "id": "exp7",
+      "title": "Instructor - Data Structures and Algorithms",
+      "organization": "Q-bit Learning",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "July 2024",
+      "endDate": "December 2024",
+      "current": false,
+      "description": "Conducted classes on Data Structures, Algorithms, and problem-solving techniques for students.",
+      "achievements": [
+        "Taught DSA concepts to 40+ students",
+        "Developed practice problems and coding exercises"
+      ],
+      "icon": "fas fa-code",
+      "type": "teaching"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "institution": "Daffodil International University",
+      "location": "Dhaka, Bangladesh",
+      "startYear": "2022",
+      "endYear": "Present",
+      "cgpa": "3.91",
+      "scale": "4.00",
+      "description": "Research Interests: Artificial Intelligence, Health Informatics, Machine Learning, Federated Learning, Explainable AI",
+      "icon": "fas fa-university",
+      "courses": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Software Engineering"
+      ]
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC)",
+      "institution": "Kushtia Govt. Central College",
+      "location": "Kushtia, Bangladesh",
+      "startYear": "2019",
+      "endYear": "2021",
+      "cgpa": "5.00",
+      "scale": "5.00",
+      "description": "Science Background",
+      "icon": "fas fa-school"
+    },
+    {
+      "degree": "Secondary School Certificate (SSC)",
+      "institution": "Nabagram Secondary School",
+      "location": "Kushtia, Bangladesh",
+      "startYear": "2017",
+      "endYear": "2019",
+      "cgpa": "5.00",
+      "scale": "5.00",
+      "description": "Science Background",
+      "icon": "fas fa-school"
+    }
+  ],
+  "skills": {
+    "programming": [
+      { "name": "Python", "level": 90, "icon": "fab fa-python", "color": "#3776AB" },
+      { "name": "Java", "level": 75, "icon": "fab fa-java", "color": "#007396" },
+      { "name": "C/C++", "level": 70, "icon": "fas fa-code", "color": "#00599C" },
+      { "name": "Dart", "level": 65, "icon": "fas fa-mobile-alt", "color": "#0175C2" },
+      { "name": "MySQL", "level": 75, "icon": "fas fa-database", "color": "#4479A1" }
+    ],
+    "aiml": [
+      { "name": "Machine Learning", "level": 85, "icon": "fas fa-brain" },
+      { "name": "Deep Learning", "level": 85, "icon": "fas fa-project-diagram" },
+      { "name": "LLMs", "level": 75, "icon": "fas fa-comment-dots" },
+      { "name": "Generative AI", "level": 75, "icon": "fas fa-magic" },
+      { "name": "Federated Learning", "level": 80, "icon": "fas fa-network-wired" },
+      { "name": "Vision Transformers", "level": 80, "icon": "fas fa-eye" }
+    ],
+    "tools": [
+      { "name": "Anaconda", "icon": "fas fa-snake" },
+      { "name": "Jupyter Notebook", "icon": "fas fa-book" },
+      { "name": "Google Colab", "icon": "fab fa-google" },
+      { "name": "Kaggle", "icon": "fab fa-kaggle" },
+      { "name": "AWS", "icon": "fab fa-aws" },
+      { "name": "Linux", "icon": "fab fa-linux" }
+    ],
+    "visualization": [
+      { "name": "Matplotlib", "icon": "fas fa-chart-bar" },
+      { "name": "Seaborn", "icon": "fas fa-chart-area" },
+      { "name": "Plotly", "icon": "fas fa-chart-line" }
+    ],
+    "soft": [
+      { "name": "Leadership", "icon": "fas fa-users-cog" },
+      { "name": "Critical Thinking", "icon": "fas fa-brain" },
+      { "name": "Emotional Intelligence", "icon": "fas fa-heart" },
+      { "name": "Project Management", "icon": "fas fa-tasks" },
+      { "name": "Effective Communication", "icon": "fas fa-comments" }
+    ]
+  },
+  "publications": [
+    {
+      "subsectionId": "submitted",
+      "subsectionTitle": "Submitted / Under Review",
+      "papers": [
+        {
+          "id": "ecg-segmentation",
+          "title": "Beat-by-Beat Lead-Aware ECG Segmentation and Multi-Class Cardiac Disease Classification",
+          "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
+          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Under Review, 2025",
+          "thumbnail": "",
+          "links": [],
+          "abstractHtml": "This study proposes a beat-by-beat lead-aware ECG segmentation approach coupled with multi-class cardiac disease classification. Our method addresses the challenge of accurate ECG signal analysis by incorporating lead-specific information into the segmentation process, enabling more precise identification of cardiac waveforms and improving automated cardiac diagnostics through fine-grained signal analysis.",
+          "bibtex": "@article{islam2025ecg,\n  title     = {Beat-by-Beat Lead-Aware ECG Segmentation and Multi-Class Cardiac Disease Classification},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {Submitted}\n}"
+        },
+        {
+          "id": "xvqa-endoscopy",
+          "title": "Clinically Explainable Visual Question Answering (X-VQA) for Gastrointestinal Endoscopy",
+          "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
+          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Under Review, 2025",
+          "thumbnail": "",
+          "links": [],
+          "abstractHtml": "This work presents X-VQA, a clinically explainable Visual Question Answering framework designed specifically for gastrointestinal endoscopy. The system integrates visual and textual reasoning to provide interpretable diagnostic support, addressing the critical need for transparency in AI-assisted medical diagnosis.",
+          "bibtex": "@article{islam2025xvqa,\n  title     = {Clinically Explainable Visual Question Answering (X-VQA) for Gastrointestinal Endoscopy},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {Submitted}\n}"
+        }
+      ]
+    },
+    {
+      "subsectionId": "ongoing",
+      "subsectionTitle": "Ongoing Research Projects",
+      "papers": [
+        {
+          "id": "fed-ear",
+          "title": "Federated Knowledge Distillation for Ear Disease Classification",
+          "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
+          "venueHtml": "<i class=\"fas fa-flask\"></i> In Progress, 2025",
+          "thumbnail": "",
+          "links": [],
+          "abstractHtml": "This ongoing research explores federated knowledge distillation techniques for privacy-preserving ear disease classification across distributed medical datasets. By combining federated learning with knowledge distillation, we aim to train efficient models while maintaining patient data privacy.",
+          "bibtex": "@article{islam2025fedear,\n  title     = {Federated Knowledge Distillation for Ear Disease Classification},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {In Progress}\n}"
+        },
+        {
+          "id": "fed-vit",
+          "title": "Privacy-Preserving Federated Vision Transformer with Grad-CAM Explainability for Multi-Label Chest X-Ray Classification",
+          "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
+          "venueHtml": "<i class=\"fas fa-flask\"></i> In Progress, 2025",
+          "thumbnail": "",
+          "links": [],
+          "abstractHtml": "This ongoing work proposes a privacy-preserving federated Vision Transformer framework with Grad-CAM-based explainability for multi-label chest X-ray classification. The research addresses both data privacy concerns and clinical interpretability requirements.",
+          "bibtex": "@article{islam2025fedvit,\n  title     = {Privacy-Preserving Federated Vision Transformer with Grad-CAM Explainability for Multi-Label Chest X-Ray Classification},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {In Progress}\n}"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Organizer, Research Policy",
+      "organization": "Daffodil International University, Research Wing, CSE",
+      "date": "April 2026",
+      "icon": "fas fa-users"
+    },
+    {
+      "title": "Course Module Leader",
+      "organization": "PythonX Python Foundations for Data Science Boot Camp, HIRL",
+      "date": "Spring 2026",
+      "icon": "fas fa-chalkboard-teacher"
+    },
+    {
+      "title": "Co-Organizer, 3-Days Research Workshop",
+      "organization": "Division of Research and HIRL",
+      "date": "February 16-22, 2026",
+      "description": "From Zero to First Idea",
+      "icon": "fas fa-lightbulb"
+    },
+    {
+      "title": "President",
+      "organization": "Health Informatics Research Lab (HIRL)",
+      "date": "April 2025 - April 2026",
+      "icon": "fas fa-crown"
+    },
+    {
+      "title": "Vice President, Research & Journal Wing",
+      "organization": "Daffodil International University CPC Club",
+      "date": "March 2025 - April 2026",
+      "icon": "fas fa-user-tie"
+    },
+    {
+      "title": "Joint Secretary",
+      "organization": "Health Informatics Research Lab (HIRL)",
+      "date": "March 2024 - March 2026",
+      "icon": "fas fa-users-cog"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Judge and Problem Setter",
+      "organization": "Prompt Battle Fall 25, DIU CPC Club",
+      "date": "October 2025",
+      "icon": "fas fa-gavel"
+    },
+    {
+      "title": "Dean's List Award",
+      "organization": "Fall 2024, Daffodil International University",
+      "date": "August 2025",
+      "icon": "fas fa-medal"
+    },
+    {
+      "title": "Judge and Problem Setter",
+      "organization": "Prompt Battle Summer 25, DIU CPC Club",
+      "date": "May 2025",
+      "icon": "fas fa-gavel"
+    },
+    {
+      "title": "Library Excellence Award",
+      "organization": "Daffodil International University Library",
+      "date": "October 2024",
+      "icon": "fas fa-book-reader"
+    },
+    {
+      "title": "Dean's List Award",
+      "organization": "Fall 2023, Daffodil International University",
+      "date": "June 2024",
+      "icon": "fas fa-medal"
+    },
+    {
+      "title": "Talentpool Scholarship",
+      "organization": "Primary Education Completion Examination (PECE), Daulatpur Upazila, Kushtia",
+      "date": "2013",
+      "icon": "fas fa-trophy"
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "organization": "Zilla Parishad, Kushtia for outstanding performance in SSC Examination",
+      "date": "2019",
+      "icon": "fas fa-certificate"
+    },
+    {
+      "title": "1st Merit Position",
+      "organization": "Annual Examination 2016, Rahmatpur Government Primary School",
+      "date": "2016",
+      "icon": "fas fa-award"
+    },
+    {
+      "title": "8th Position (Upazila Merit List)",
+      "organization": "Primary Education Completion Examination (PECE), Kushtia",
+      "date": "2013",
+      "icon": "fas fa-star"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Volunteer",
+      "organization": "International Conference on Intelligent Data Analysis and Applications (IDAA 2025)",
+      "date": "December 12-13, 2025",
+      "icon": "fas fa-hands-helping"
+    },
+    {
+      "title": "Participant",
+      "organization": "Futurenation Summit 2025, National Science and Technology Complex, Dhaka",
+      "date": "November 30, 2025",
+      "icon": "fas fa-rocket"
+    },
+    {
+      "title": "Employability Masterclass 21",
+      "organization": "UNDP Bangladesh",
+      "date": "November 11, 2025",
+      "icon": "fas fa-briefcase"
+    },
+    {
+      "title": "English Online Self-Study: Social Interaction (Level B1)",
+      "organization": "British Council",
+      "date": "November 10, 2025",
+      "icon": "fas fa-language"
+    },
+    {
+      "title": "Preparatory Online Training on IELTS Speaking Module",
+      "organization": "Futurenation UNDP Bangladesh",
+      "date": "September 3, 2025",
+      "icon": "fas fa-microphone"
+    },
+    {
+      "title": "Industry-Academia Collaboration Summit 2025",
+      "organization": "Career Development Center (CDC), Daffodil International University",
+      "date": "July 12-13, 2025",
+      "icon": "fas fa-handshake"
+    },
+    {
+      "title": "DIU-DOR Poster Presentation 2025",
+      "organization": "Daffodil International University",
+      "date": "May 14, 2025",
+      "icon": "fas fa-presentation"
+    },
+    {
+      "title": "Linux Server Management and Security",
+      "organization": "University of Colorado System via Coursera",
+      "date": "April 2-27, 2025",
+      "icon": "fab fa-linux"
+    },
+    {
+      "title": "Data Science Math Skills",
+      "organization": "Duke University via Coursera",
+      "date": "April 10-23, 2025",
+      "icon": "fas fa-calculator"
+    },
+    {
+      "title": "Automation in the AWS Cloud",
+      "organization": "Amazon Web Services (AWS) via Coursera",
+      "date": "March 27 - April 1, 2025",
+      "icon": "fab fa-aws"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Bangla",
+      "level": "Native",
+      "proficiency": 100,
+      "icon": "🇧🇩"
+    },
+    {
+      "name": "English",
+      "level": "Fluent",
+      "proficiency": 90,
+      "skills": {
+        "reading": "Fluent",
+        "listening": "Fluent",
+        "speaking": "Fluent",
+        "writing": "Fluent"
+      },
+      "icon": "🇬🇧"
+    }
+  ]
+}
