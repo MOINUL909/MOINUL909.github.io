@@ -595,64 +595,6 @@
         }
     });
     
-    // ==================== FIRE CURSOR ====================
-    function setupFireCursor() {
-        const fireCursor = document.getElementById('fire-cursor');
-        if (!fireCursor) return;
-
-        // Fire colour palette: more saturated for visibility on white
-        const fireColors = [
-            ['#ffdd00', '#ffaa00', 0.85],
-            ['#ffaa00', '#ff8800', 0.85],
-            ['#ff8800', '#ff4400', 0.90],
-            ['#ff4400', '#cc1100', 0.90],
-            ['#cc2200', '#880000', 0.95],
-        ];
-
-        let lastX = 0, lastY = 0;
-
-        function spawnParticle(x, y) {
-            const p = document.createElement('div');
-            p.className = 'fire-particle';
-
-            // Random tier from the palette (inner tiers more likely)
-            const tier = fireColors[Math.floor(Math.random() * fireColors.length)];
-            const size = 6 + Math.random() * 14;       // 6–20 px
-            const dur  = 0.35 + Math.random() * 0.45;  // 0.35–0.8 s
-            const vx   = (Math.random() - 0.5) * 22;   // horizontal drift
-
-            p.style.cssText = `
-                left:${x}px; top:${y}px;
-                width:${size}px; height:${size}px;
-                background: radial-gradient(circle, ${tier[0]}, ${tier[1]});
-                box-shadow: 0 0 ${size * 1.4}px ${tier[1]};
-                --opacity:${tier[2]};
-                --dur:${dur}s;
-                --vx:${vx}px;
-            `;
-
-            document.body.appendChild(p);
-            p.addEventListener('animationend', () => p.remove());
-        }
-
-        window.addEventListener('mousemove', (e) => {
-            fireCursor.style.left = `${e.clientX}px`;
-            fireCursor.style.top  = `${e.clientY}px`;
-
-            // Throttle: spawn particles only when mouse has moved enough
-            const dx = e.clientX - lastX, dy = e.clientY - lastY;
-            if (dx * dx + dy * dy > 4) {
-                const count = 2 + Math.floor(Math.random() * 2); // 2–3 per frame
-                for (let i = 0; i < count; i++) {
-                    const ox = (Math.random() - 0.5) * 6;
-                    const oy = (Math.random() - 0.5) * 6;
-                    spawnParticle(e.clientX + ox, e.clientY + oy);
-                }
-                lastX = e.clientX; lastY = e.clientY;
-            }
-        });
-    }
-
     // ==================== PARTICLES ====================
     function createParticles() {
         const container = document.getElementById('particles');
@@ -697,7 +639,6 @@
             // Setup interactivity
             setupNavigation();
             setupBackToTop();
-            setupFireCursor();
             createParticles();
             
             // Initialize AOS
