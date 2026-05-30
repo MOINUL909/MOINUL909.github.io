@@ -161,7 +161,7 @@
         
         // Typing effect
         const typingElement = document.querySelector('.typing-text');
-        const roles = ['AI Researcher', 'Machine Learning Engineer', 'Research Associate', 'Teaching Assistant'];
+        const roles = ['AI Researcher', 'Machine Learning Engineer', 'Research Associate & Coordinator', 'Undergraduate Teaching Assistant'];
         typeWriter(typingElement, roles, 80);
         
         // Description
