@@ -16,7 +16,7 @@
       "alt": "Md. Moinul Islam - AI Researcher"
     },
     "bioParagraphs": [
-      "I am a Computer Science and Engineering undergraduate at <a href=\"https://daffodilvarsity.edu.bd/\" target=\"_blank\">Daffodil International University</a> with a strong interest in <strong>Artificial Intelligence</strong> and <strong>healthcare research</strong>, focusing on medical image analysis, federated learning, and explainable AI.",
+      "I am a Computer Science and Engineering undergraduate Student at <a href=\"https://daffodilvarsity.edu.bd/\" target=\"_blank\">Daffodil International University</a> with a strong interest in <strong>Artificial Intelligence</strong> and <strong>healthcare research</strong>, focusing on medical image analysis, federated learning, and explainable AI.",
       "As a <strong>Research Associate & Coordinator</strong> at the <strong>Health Informatics Research Lab (HIRL)</strong>, I lead and contribute to AI-driven healthcare projects while mentoring junior researchers. I also gained industry experience as a <strong>Generative AI Intern</strong> at Metademy LLC, USA, working with large language models and AI agents.",
       "I am passionate about developing <strong>intelligent, privacy-preserving, and clinically interpretable AI systems</strong> for real-world impact. I strongly believe in the importance of outreach in academia and actively mentor junior researchers, organize research workshops, and lead collaborative research programs."
     ],
@@ -114,7 +114,7 @@
     },
     {
       "id": "exp2",
-      "title": "Teaching Assistant",
+      "title": "Undergraduate Teaching Assistant",
       "organization": "Department of CSE, Daffodil International University",
       "location": "Dhaka, Bangladesh",
       "startDate": "February 2026",
@@ -219,7 +219,7 @@
       "location": "Dhaka, Bangladesh",
       "startYear": "2022",
       "endYear": "Present",
-      "cgpa": "3.91",
+      "cgpa": "3.90",
       "scale": "4.00",
       "description": "Research Interests: Artificial Intelligence, Health Informatics, Machine Learning, Federated Learning, Explainable AI",
       "icon": "fas fa-university",
