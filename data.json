@@ -2,8 +2,8 @@
   "meta": {
     "siteTitle": "Md. Moinul Islam | AI Researcher & Developer",
     "copyrightYear": 2026,
-    "description": "Computer Science undergraduate at Daffodil International University, specializing in AI for healthcare, medical image analysis, federated learning, and explainable AI.",
-    "keywords": "Md. Moinul Islam, Medical AI, Computer Vision, Federated Learning, Explainable AI, Health Informatics, Machine Learning, Deep Learning"
+    "description": "Computer Science and Engineering graduate from Daffodil International University with research interests in Artificial Intelligence, Digital Health, and Trustworthy AI — including medical image analysis, federated learning, and explainable AI.",
+    "keywords": "Md. Moinul Islam, Artificial Intelligence, Digital Health, Trustworthy AI, Medical AI, Computer Vision, Natural Language Processing, Federated Learning, Explainable AI, Health Informatics, Data Privacy, AI Governance, Machine Learning, Deep Learning"
   },
   "profile": {
     "displayName": "Md. Moinul Islam",
@@ -16,9 +16,9 @@
       "alt": "Md. Moinul Islam - AI Researcher"
     },
     "bioParagraphs": [
-      "I am a Computer Science and Engineering undergraduate Student at <a href=\"https://daffodilvarsity.edu.bd/\" target=\"_blank\">Daffodil International University</a> with a strong interest in <strong>Artificial Intelligence</strong> and <strong>healthcare research</strong>, focusing on medical image analysis, federated learning, and explainable AI.",
-      "As a <strong>Research Associate & Coordinator</strong> at the <strong>Health Informatics Research Lab (HIRL)</strong>, I lead and contribute to AI-driven healthcare projects while mentoring junior researchers. I also gained industry experience as a <strong>Generative AI Intern</strong> at Metademy LLC, USA, working with large language models and AI agents.",
-      "I am passionate about developing <strong>intelligent, privacy-preserving, and clinically interpretable AI systems</strong> for real-world impact. I strongly believe in the importance of outreach in academia and actively mentor junior researchers, organize research workshops, and lead collaborative research programs."
+      "I am a Computer Science and Engineering graduate from <a href=\"https://daffodilvarsity.edu.bd/\" target=\"_blank\">Daffodil International University</a> with research interests in <strong>Artificial Intelligence</strong>, <strong>Digital Health</strong>, and <strong>Trustworthy AI</strong>. My expertise spans Machine Learning, Natural Language Processing, Computer Vision, Human–Computer Interaction, Data Mining, Data Management, Health Information Systems, Information Systems, Computer Security, Data Privacy, and AI Governance.",
+      "As a <strong>Research Associate & Coordinator</strong> at the <strong>Health Informatics Research Lab (HIRL)</strong>, I contribute to AI-driven healthcare research, project coordination, and researcher mentorship. I also worked as a <strong>Generative AI Intern</strong> at Metademy LLC, USA, developing Large Language Model (LLM)-based applications and AI agents.",
+      "My research focuses on building <strong>intelligent, privacy-preserving, and clinically interpretable AI systems</strong> for healthcare and digital health applications. I strongly believe in the importance of outreach in academia and actively mentor junior researchers, organize research workshops, and lead collaborative research programs."
     ],
     "highlights": [
       {
@@ -29,7 +29,7 @@
       },
       {
         "icon": "fas fa-award",
-        "number": "8",
+        "number": "9",
         "label": "Awards & Honors",
         "suffix": "+"
       },
@@ -41,7 +41,7 @@
       },
       {
         "icon": "fas fa-users",
-        "number": "3",
+        "number": "6",
         "label": "Leadership Roles",
         "suffix": ""
       }
@@ -92,7 +92,8 @@
     { "id": "publications", "label": "Publications", "icon": "fas fa-book" },
     { "id": "leadership", "label": "Leadership", "icon": "fas fa-trophy" },
     { "id": "awards", "label": "Awards", "icon": "fas fa-award" },
-    { "id": "certificates", "label": "Certificates", "icon": "fas fa-certificate" }
+    { "id": "certificates", "label": "Certificates", "icon": "fas fa-certificate" },
+    { "id": "referees", "label": "Referees", "icon": "fas fa-user-friends" }
   ],
   "experience": [
     {
@@ -117,8 +118,8 @@
       "title": "Undergraduate Teaching Assistant",
       "organization": "Department of CSE, Daffodil International University",
       "location": "Dhaka, Bangladesh",
-      "startDate": "February 2026",
-      "endDate": "Present",
+      "startDate": "Fall 2025",
+      "endDate": "Summer 2026",
       "current": true,
       "description": "Working under the supervision of Dr. S. M. Aminul Haque, assisting in academic activities.",
       "achievements": [
@@ -134,9 +135,9 @@
       "organization": "PythonX: Python Foundations for Data Science Boot Camp",
       "location": "Health Informatics Research Lab (HIRL)",
       "startDate": "Spring 2026",
-      "endDate": "Spring 2026",
-      "current": false,
-      "description": "Instructed participants in Python programming and foundational Data Science concepts through practical sessions and guided exercises.",
+      "endDate": "Summer 2026",
+      "current": true,
+      "description": "Conducted hands-on Python and Data Science training sessions through practical sessions and guided exercises.",
       "achievements": [
         "Taught 50+ students Python and Data Science fundamentals",
         "Developed course modules and practical exercises"
@@ -152,7 +153,7 @@
       "startDate": "April 2025",
       "endDate": "July 2025",
       "current": false,
-      "description": "Worked with Large Language Models (LLMs), Whisper API, and AI agents while contributing to AI research, development, and product innovation.",
+      "description": "Contributed to AI research and product innovation using Large Language Models (LLMs), Whisper API, and AI agents.",
       "achievements": [
         "Developed LLM-powered applications",
         "Integrated Whisper API for speech recognition",
@@ -218,7 +219,7 @@
       "institution": "Daffodil International University",
       "location": "Dhaka, Bangladesh",
       "startYear": "2022",
-      "endYear": "Present",
+      "endYear": "2026",
       "cgpa": "3.90",
       "scale": "4.00",
       "description": "Research Interests: Artificial Intelligence, Health Informatics, Machine Learning, Federated Learning, Explainable AI",
@@ -233,7 +234,7 @@
       ]
     },
     {
-      "degree": "Higher Secondary Certificate (HSC)",
+      "degree": "Higher Secondary Certificate (HSC), Science",
       "institution": "Kushtia Govt. Central College",
       "location": "Kushtia, Bangladesh",
       "startYear": "2019",
@@ -244,7 +245,7 @@
       "icon": "fas fa-school"
     },
     {
-      "degree": "Secondary School Certificate (SSC)",
+      "degree": "Secondary School Certificate (SSC), Science",
       "institution": "Nabagram Secondary School",
       "location": "Kushtia, Bangladesh",
       "startYear": "2017",
@@ -301,21 +302,21 @@
           "id": "ecg-segmentation",
           "title": "Beat-by-Beat Lead-Aware ECG Segmentation and Multi-Class Cardiac Disease Classification",
           "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
-          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Under Review, 2025",
+          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Submitted / Under Review, 2025",
           "thumbnail": "",
           "links": [],
           "abstractHtml": "This study proposes a beat-by-beat lead-aware ECG segmentation approach coupled with multi-class cardiac disease classification. Our method addresses the challenge of accurate ECG signal analysis by incorporating lead-specific information into the segmentation process, enabling more precise identification of cardiac waveforms and improving automated cardiac diagnostics through fine-grained signal analysis.",
           "bibtex": "@article{islam2025ecg,\n  title     = {Beat-by-Beat Lead-Aware ECG Segmentation and Multi-Class Cardiac Disease Classification},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {Submitted}\n}"
         },
         {
-          "id": "xvqa-endoscopy",
-          "title": "Clinically Explainable Visual Question Answering (X-VQA) for Gastrointestinal Endoscopy",
+          "id": "ikdefl-ear",
+          "title": "IKDEFL: An Independent Knowledge Distillation Enhanced Federated Learning Framework for Ear Disease Detection",
           "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
-          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Under Review, 2025",
+          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Submitted / Under Review, 2025",
           "thumbnail": "",
           "links": [],
-          "abstractHtml": "This work presents X-VQA, a clinically explainable Visual Question Answering framework designed specifically for gastrointestinal endoscopy. The system integrates visual and textual reasoning to provide interpretable diagnostic support, addressing the critical need for transparency in AI-assisted medical diagnosis.",
-          "bibtex": "@article{islam2025xvqa,\n  title     = {Clinically Explainable Visual Question Answering (X-VQA) for Gastrointestinal Endoscopy},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {Submitted}\n}"
+          "abstractHtml": "IKDEFL introduces an independent knowledge distillation enhanced federated learning framework for ear disease detection. By combining federated learning with independent knowledge distillation across distributed clients, the framework trains efficient and accurate diagnostic models while keeping patient data local and privacy preserved.",
+          "bibtex": "@article{islam2025ikdefl,\n  title     = {IKDEFL: An Independent Knowledge Distillation Enhanced Federated Learning Framework for Ear Disease Detection},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {Submitted}\n}"
         }
       ]
     },
@@ -324,44 +325,44 @@
       "subsectionTitle": "Ongoing Research Projects",
       "papers": [
         {
-          "id": "fed-ear",
-          "title": "Federated Knowledge Distillation for Ear Disease Classification",
+          "id": "coughscreen-bd",
+          "title": "CoughScreen-BD: A Non-Invasive Acoustic Deep Learning Framework",
           "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
-          "venueHtml": "<i class=\"fas fa-flask\"></i> In Progress, 2025",
+          "venueHtml": "<i class=\"fas fa-flask\"></i> Ongoing, 2025",
           "thumbnail": "",
           "links": [],
-          "abstractHtml": "This ongoing research explores federated knowledge distillation techniques for privacy-preserving ear disease classification across distributed medical datasets. By combining federated learning with knowledge distillation, we aim to train efficient models while maintaining patient data privacy.",
-          "bibtex": "@article{islam2025fedear,\n  title     = {Federated Knowledge Distillation for Ear Disease Classification},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {In Progress}\n}"
+          "abstractHtml": "CoughScreen-BD is an ongoing project developing a non-invasive acoustic deep learning framework for respiratory health screening from cough sounds. The work targets low-cost, accessible screening suited to resource-constrained clinical settings.",
+          "bibtex": "@article{islam2025coughscreen,\n  title     = {CoughScreen-BD: A Non-Invasive Acoustic Deep Learning Framework},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {Ongoing}\n}"
         },
         {
-          "id": "fed-vit",
-          "title": "Privacy-Preserving Federated Vision Transformer with Grad-CAM Explainability for Multi-Label Chest X-Ray Classification",
+          "id": "xvqa-endoscopy",
+          "title": "Clinically Explainable Visual Question Answering (X-VQA) for Gastrointestinal Endoscopy",
           "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
-          "venueHtml": "<i class=\"fas fa-flask\"></i> In Progress, 2025",
+          "venueHtml": "<i class=\"fas fa-flask\"></i> Ongoing, 2025",
           "thumbnail": "",
           "links": [],
-          "abstractHtml": "This ongoing work proposes a privacy-preserving federated Vision Transformer framework with Grad-CAM-based explainability for multi-label chest X-ray classification. The research addresses both data privacy concerns and clinical interpretability requirements.",
-          "bibtex": "@article{islam2025fedvit,\n  title     = {Privacy-Preserving Federated Vision Transformer with Grad-CAM Explainability for Multi-Label Chest X-Ray Classification},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {In Progress}\n}"
+          "abstractHtml": "This work presents X-VQA, a clinically explainable Visual Question Answering framework designed specifically for gastrointestinal endoscopy. The system integrates visual and textual reasoning to provide interpretable diagnostic support, addressing the critical need for transparency in AI-assisted medical diagnosis.",
+          "bibtex": "@article{islam2025xvqa,\n  title     = {Clinically Explainable Visual Question Answering (X-VQA) for Gastrointestinal Endoscopy},\n  author    = {Md. Moinul Islam and others},\n  year      = {2025},\n  note      = {Ongoing}\n}"
         }
       ]
     }
   ],
   "leadership": [
     {
-      "title": "Organizer, Research Policy",
-      "organization": "Daffodil International University, Research Wing, CSE",
+      "title": "Organizer, Research Policy Initiative",
+      "organization": "Department of Computer Science & Engineering, Daffodil International University",
       "date": "April 2026",
       "icon": "fas fa-users"
     },
     {
       "title": "Course Module Leader",
-      "organization": "PythonX Python Foundations for Data Science Boot Camp, HIRL",
+      "organization": "PythonX: Python Foundations for Data Science Boot Camp, Health Informatics Research Lab (HIRL)",
       "date": "Spring 2026",
       "icon": "fas fa-chalkboard-teacher"
     },
     {
-      "title": "Co-Organizer, 3-Days Research Workshop",
-      "organization": "Division of Research and HIRL",
+      "title": "Co-Organizer, Research Workshop: From Zero to First Idea",
+      "organization": "Division of Research & Health Informatics Research Lab (HIRL)",
       "date": "February 16-22, 2026",
       "description": "From Zero to First Idea",
       "icon": "fas fa-lightbulb"
@@ -374,7 +375,7 @@
     },
     {
       "title": "Vice President, Research & Journal Wing",
-      "organization": "Daffodil International University CPC Club",
+      "organization": "Daffodil International University Computer Programming Club (DIU CPC)",
       "date": "March 2025 - April 2026",
       "icon": "fas fa-user-tie"
     },
@@ -388,7 +389,7 @@
   "awards": [
     {
       "title": "Judge and Problem Setter",
-      "organization": "Prompt Battle Fall 25, DIU CPC Club",
+      "organization": "Prompt Battle Fall 25, Daffodil International University CPC Club",
       "date": "October 2025",
       "icon": "fas fa-gavel"
     },
@@ -400,7 +401,7 @@
     },
     {
       "title": "Judge and Problem Setter",
-      "organization": "Prompt Battle Summer 25, DIU CPC Club",
+      "organization": "Prompt Battle Summer 25, Daffodil International University CPC Club",
       "date": "May 2025",
       "icon": "fas fa-gavel"
     },
@@ -417,22 +418,22 @@
       "icon": "fas fa-medal"
     },
     {
-      "title": "Talentpool Scholarship",
-      "organization": "Primary Education Completion Examination (PECE), Daulatpur Upazila, Kushtia",
-      "date": "2013",
-      "icon": "fas fa-trophy"
-    },
-    {
       "title": "Certificate of Appreciation",
-      "organization": "Zilla Parishad, Kushtia for outstanding performance in SSC Examination",
+      "organization": "Zilla Parishad, Kushtia, for outstanding performance in the JSC/JDC/SSC Equivalent Examination 2019",
       "date": "2019",
       "icon": "fas fa-certificate"
     },
     {
       "title": "1st Merit Position",
-      "organization": "Annual Examination 2016, Rahmatpur Government Primary School",
+      "organization": "Annual Examination 2016, Rahmatpur Government Primary School, Daulatpur, Kushtia",
       "date": "2016",
       "icon": "fas fa-award"
+    },
+    {
+      "title": "Talentpool Scholarship",
+      "organization": "Primary Education Completion Examination (PECE), Daulatpur Upazila, Kushtia, Bangladesh",
+      "date": "2013",
+      "icon": "fas fa-trophy"
     },
     {
       "title": "8th Position (Upazila Merit List)",
@@ -506,18 +507,18 @@
   "languages": [
     {
       "name": "Bangla",
-      "level": "Native",
+      "level": "Mother Tongue",
       "proficiency": 100,
       "icon": "🇧🇩"
     },
     {
       "name": "English",
-      "level": "Fluent",
+      "level": "Fluent in Reading, Listening, and Writing; Conversational in Speaking",
       "proficiency": 90,
       "skills": {
         "reading": "Fluent",
         "listening": "Fluent",
-        "speaking": "Fluent",
+        "speaking": "Conversational",
         "writing": "Fluent"
       },
       "icon": "🇬🇧"
