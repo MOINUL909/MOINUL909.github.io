@@ -301,7 +301,7 @@
         {
           "id": "ecg-segmentation",
           "title": "Beat-by-Beat Lead-Aware ECG Segmentation and Multi-Class Cardiac Disease Classification",
-          "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
+          "authorsHtml": "<strong>Md. Moinul Islam</strong>, Sadia Sultana Chowa, Md. Zahid Hasan, and Sami Azam",
           "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Submitted / Under Review, 2025",
           "thumbnail": "",
           "links": [],
@@ -311,8 +311,8 @@
         {
           "id": "ikdefl-ear",
           "title": "IKDEFL: An Independent Knowledge Distillation Enhanced Federated Learning Framework for Ear Disease Detection",
-          "authorsHtml": "<strong>Md. Moinul Islam</strong>, et al.",
-          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Submitted / Under Review, 2025",
+          "authorsHtml": "<strong>Md. Moinul Islam</strong>, Ashabori Mayurakkhi, Rokeya Unzum Shekha, Md. Zahid Hasan, Md Jamil Istiaq, and Dewan Aminul Islam.",
+          "venueHtml": "<i class=\"fas fa-journal-whills\"></i> Under Review, 2026",
           "thumbnail": "",
           "links": [],
           "abstractHtml": "IKDEFL introduces an independent knowledge distillation enhanced federated learning framework for ear disease detection. By combining federated learning with independent knowledge distillation across distributed clients, the framework trains efficient and accurate diagnostic models while keeping patient data local and privacy preserved.",
@@ -322,7 +322,7 @@
     },
     {
       "subsectionId": "ongoing",
-      "subsectionTitle": "Ongoing Research Projects",
+      "subsectionTitle": "Research in Progress",
       "papers": [
         {
           "id": "coughscreen-bd",
